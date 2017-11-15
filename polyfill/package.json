@@ -1,11 +1,11 @@
 {
-  "name": "intersection-observer",
+  "name": "intersection-observer-point",
   "version": "0.4.3",
-  "description": "A polyfill for IntersectionObserver",
-  "main": "intersection-observer",
+  "description": "A polyfill for IntersectionObserver, patched by point",
+  "main": "intersection-observer.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:w3c/IntersectionObserver.git"
+    "url": "git@github.com:point/IntersectionObserver.git"
   },
   "keywords": [
     "Intersection",
